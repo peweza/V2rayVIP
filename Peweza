@@ -1,3 +1,9 @@
+//profile-title: base64:8J+UkCBWMnJheVZJUCAoUGV3ZXphKQ==
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/PewezaVPN
+//profile-web-page-url: https://t.me/PewezaVPN
+
 vless://2d19551f-b872-426b-a316-5bac8026148b@23.164.240.209:8443?type=tcp&encryption=none&security=none#PewezaVless-1
 vless://d4d32ba1-1025-4b3f-a3b1-2ff28ef225f8@45.131.185.149:8443?type=tcp&encryption=none&security=none#PewezaVless-2
 vless://ec50b168-8971-41dc-b8d4-a056a9ffa462@185.238.189.132:8443?type=tcp&encryption=none&security=none#PewezaVless-3
